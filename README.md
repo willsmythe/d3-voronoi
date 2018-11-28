@@ -1,5 +1,7 @@
 # d3-voronoi
 
+[![Build Status](https://dev.azure.com/d3/d3/_apis/build/status/d3.d3-voronoi)](https://dev.azure.com/d3/d3/_build/definition?definitionId=30)
+
 **Deprecation notice**: Consider using the newer [d3-delaunay](https://github.com/d3/d3-delaunay) instead of d3-voronoi. Based on [Delaunator](https://github.com/mapbox/delaunator), d3-delaunay is 5-10× faster than d3-voronoi to construct the Delaunay triangulation or the Voronoi diagram, is more robust numerically, has Canvas rendering built-in, allows traversal of the Delaunay graph, and a variety of other improvements.
 
 ---
